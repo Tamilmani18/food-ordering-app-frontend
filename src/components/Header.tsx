@@ -10,7 +10,7 @@ export default function Header() {
           to="/"
           className="text-3xl font-bold tracking-tight text-orange-500"
         >
-          MernEats.com
+          Foodie.com
         </Link>
         {/* md is predefined breakpoint given by tailwind & it hides this component for medium and larger size screens */}
         <div className="md:hidden">
